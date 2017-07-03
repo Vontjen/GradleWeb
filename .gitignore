@@ -39,4 +39,10 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 
+.idea
 
+gradle
+
+*.iml
+
+.DS_Store
